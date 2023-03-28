@@ -6,9 +6,9 @@ if number == 0:
 
 elif number > 0:
     if number < 1:
-        print('small number')
+        print('small positive')
     elif number > 1000000:
-        print('large number')
+        print('large positive')
     else:
         print('positive')
 else:

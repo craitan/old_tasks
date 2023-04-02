@@ -7,3 +7,6 @@ while True:
 
 print(year)
 
+# We add + 1 to the year we transformed into set of str cuz in sets there are only unique values when we get to a
+# year that is with for different numbers the len of the set == 4 we break the while cycle and print the year cuz
+# there are 4 unique numbers in the set.
